@@ -1,0 +1,9 @@
+[submodule "movies-api"]
+	path = movies-api
+	url = git@github.com:TalkySafe143/movies-api.git
+[submodule "ssr-server"]
+	path = ssr-server
+	url = git@github.com:TalkySafe143/ssr-server.git
+[submodule "PlatziVideos"]
+	path = PlatziVideos
+	url = git@github.com:TalkySafe143/PlatziVideo.git
